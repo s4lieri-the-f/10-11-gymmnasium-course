@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/matrixes.dir/main.cpp.o -o matrixes 

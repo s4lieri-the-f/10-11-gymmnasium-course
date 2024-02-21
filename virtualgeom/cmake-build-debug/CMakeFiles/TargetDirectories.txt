@@ -1,3 +1,0 @@
-C:/Users/Сальери/CLionProjects/virtualgeom/cmake-build-debug/CMakeFiles/virtualgeom.dir
-C:/Users/Сальери/CLionProjects/virtualgeom/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Сальери/CLionProjects/virtualgeom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

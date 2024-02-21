@@ -2,13 +2,14 @@
 #include "matrix.hpp"
 #include <vector>
 
-using namespace std;
-
-int main() {
-    vector<vector<int>> vec{{1}, {2}};
-    vector<vector<int>> vec2{{1, 2, 3}};
+int main()
+{
+    std::vector<std::vector<double>> vec{{1}, {2}};
+    std::vector<std::vector<double>> vec2{{1, 2}, {3, 4}};
     Matrix A(vec);
     Matrix B(vec2);
-    cout << A * B;
+    std::cout << B << std::endl;
+    aux(B);
+    std::cout << B.inverse() * 2 * A;
     return 0;
 }

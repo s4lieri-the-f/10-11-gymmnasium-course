@@ -1,0 +1,3 @@
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/matrixes/CMakeFiles/matrixes.dir
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/matrixes/CMakeFiles/edit_cache.dir
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/matrixes/CMakeFiles/rebuild_cache.dir

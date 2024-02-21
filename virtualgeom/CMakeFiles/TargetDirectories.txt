@@ -1,0 +1,3 @@
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/virtualgeom/CMakeFiles/virtualgeom.dir
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/virtualgeom/CMakeFiles/edit_cache.dir
+/mnt/c/Users/apras/Documents/домашки/климов/10-11-gymmnasium-course/virtualgeom/CMakeFiles/rebuild_cache.dir
